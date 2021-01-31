@@ -1,0 +1,15 @@
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\bin\Debug\Intelektika.exe.config
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\bin\Debug\Intelektika.exe
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\bin\Debug\Intelektika.pdb
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\Intelektika.csprojAssemblyReference.cache
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\MainWindow.g.cs
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\App.g.cs
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\Intelektika_MarkupCompile.cache
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\Intelektika_MarkupCompile.lref
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\MainWindow.baml
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\Intelektika.g.resources
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\Intelektika.Properties.Resources.resources
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\Intelektika.csproj.GenerateResource.cache
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\Intelektika.csproj.CoreCompileInputs.cache
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\Intelektika.exe
+C:\Users\Ernestas\Desktop\Intelektika\Intelektika\obj\Debug\Intelektika.pdb
