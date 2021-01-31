@@ -1,0 +1,6 @@
+e1,1,2,coord,+
+e2,3,4,coord,+
+e3,6,4,coord,+
+e4,2,1,coord,-
+e5,4,1,coords,-
+e6,5,2,coords,-
